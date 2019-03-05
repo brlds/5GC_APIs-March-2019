@@ -1126,7 +1126,7 @@ components:
         indirectForwardingFlag:
           type: boolean
         targetId:
-          $ref: 'TS29518_Namf_Communication.yaml#/components/schemas/NgRanTagetId'
+          $ref: 'TS29518_Namf_Communication.yaml#/components/schemas/NgRanTargetId'
       required:
         - servingNfId
         - servingNetwork
