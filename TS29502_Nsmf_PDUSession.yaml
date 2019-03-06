@@ -1566,10 +1566,7 @@ components:
           items:
             $ref: 'TS29571_CommonData.yaml#/components/schemas/SecondaryRatUsageReport'
           minItems: 1        
-
-    ReleasedData:
-      type: object
-      
+     
     VsmfUpdateData:
       type: object
       properties:
