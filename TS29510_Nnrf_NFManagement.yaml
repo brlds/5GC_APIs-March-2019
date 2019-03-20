@@ -67,7 +67,7 @@ paths:
           $ref: 'TS29571_CommonData.yaml#/components/responses/503'
         default:
           $ref: 'TS29571_CommonData.yaml#/components/responses/default'
-      options:
+    options:
       summary: Discover communication options supported by NRF for NF Instances
       operationId: OptionsNFInstances
       tags:
